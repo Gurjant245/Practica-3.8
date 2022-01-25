@@ -24,6 +24,15 @@ div.contacto {
 h1.title {
     text-align: center;
 }
+a.parfCarta {
+    color: brown;
+}
+a.parfCafe {
+    color: brown;
+}
+a.parfContacto {
+    color: brown;
+}
 
 /* Imagenes */
 img.carta {

@@ -1,12 +1,13 @@
 body {
     background-color: wheat;
 }
-h1.contact {
-    text-align: center;
+h1.title {
     color: brown;
-    border-bottom: black 1px solid;
+    text-align: center;
 }
-
-main {
+p.parfUno {
+    color: brown;
+}
+p.parfDos {
     color: brown;
 }
